@@ -30,7 +30,7 @@ This is the application repository. It holds the release that every guide in thi
 
 Because the wallet is self-custody, the application holds something no server holds: the key material for an account. That shapes what this repository is *not*. It is not a dashboard for an account held elsewhere, and there is no password reset, no support channel that can move funds and no mechanism by which this project can restore a phrase for you. What the application can do is make the local practice safer: derive the phrase on the device, show a transaction's effect before it is signed, keep keys behind a hardware device when one is paired, and keep every transfer inside a preview screen the user has to read.
 
-## Who it is for
+## Who it is for?
 
 - Desktop users on 64-bit Windows 10 or later, macOS 12 or later, or x64 Linux, who want Sui keys on their own machine rather than in a browser extension.
 - People who hold Sui and want staking, hardware-key signing and NFT management in one application.
